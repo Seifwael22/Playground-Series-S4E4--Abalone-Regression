@@ -36,5 +36,3 @@ Reference: [Abalone Dataset](https://archive.ics.uci.edu/dataset/1/abalone)
 - Dealt with the skewness transformation problem.
 - Removed MinMaxScaling.
 - Hyperparameter tuned LGBM model which achieved the best RMSLE so far on the LB.
-
-## If you find the notebook helpful make sure to upvote! Your support is appreciated.
